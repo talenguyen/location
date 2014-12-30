@@ -6,6 +6,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 
 import com.google.android.gms.location.LocationListener;
+import com.tale.location.LocationHelper;
 
 
 public class MainActivity extends ActionBarActivity {
